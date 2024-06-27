@@ -1,5 +1,5 @@
 # OOΠ
-## Perotti Samuele, MAT: 899817
+## Perotti Samuele, <s.perotti4@campus.unimib.it>
 
 Questo programma Prolog è un'estensione per implementare il paradigma
 orientato agli oggetti. Consente la creazione di classi, istanze,
@@ -283,5 +283,5 @@ false.***
 
 ## Credits
 
-- Perotti Samuele, MAT: 899817
+- Perotti Samuele, <s.perotti4@campus.unimib.it>
 - UNIMIB, Programming Languages Course
